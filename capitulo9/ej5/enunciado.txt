@@ -1,0 +1,16 @@
+5. Práctica final del capítulo
+Vamos a crear una aplicación para gestionar una liga de fútbol. El programa tendrá las siguientes
+opciones:
+1. Introducir equipo: Nos permite añadir un equipo a la liga
+2. Eliminar equipo: Nos permite eliminar un equipo
+3. Introducir Partidos de la Jornada: De forma manual, emparejaremos los equipos para la jornada
+actual.
+4. Resultado Partidos de la Jornada: Queremos guardar el resultado de la jornada actual. Cuando
+se introduzca el último resultado de partido, avanzamos de jornada. Este hecho se le debe
+notificar al usuario.
+5. Mostrar partidos: Mostramos los emparejamientos y resultados de la jornada actual.
+6. Mostrar liga: Mostramos todos los partidor y resultados de la liga hasta el momento.
+7. Salir
+Utiliza las clases que consideres necesarias. Como sugerencia podrían ser Equipo, Partido y Liga.
+Un partido esta compuesto de 2 equipos. Una jornada, de varios partidos. Y una liga, de varias
+jornadas.
