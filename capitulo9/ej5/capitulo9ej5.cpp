@@ -6,6 +6,9 @@
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
+/*5. Práctica final del capítulo
+Vamos a crear una aplicación para gestionar una liga de fútbol.*/
+
 #include <iostream>
 using namespace std;
 #include "Liga.h"
